@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 And now I'm being edited!:(
 Merging!
 Rebasing!
+=======
+Editing via website
+>>>>>>> 9492ba5f7dc2aa87b7b61cd16bce84943695bf57
